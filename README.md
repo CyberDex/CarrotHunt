@@ -1,4 +1,4 @@
-# CarrotHunt 
+# Carrot Hunt 
 
 Phaser based platformer game made for fun :)
 
